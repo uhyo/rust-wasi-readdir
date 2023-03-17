@@ -1,5 +1,7 @@
 # Reproduction of a `fs::read_dir` problem in Node.js WASI environment
 
+Issue link: https://github.com/rust-lang/rust/issues/109264
+
 ## Prerequisites
 
 - [cargo-wasi](https://github.com/bytecodealliance/cargo-wasi) (`cargo install cargo-wasi`)
